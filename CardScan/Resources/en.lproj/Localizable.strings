@@ -1,0 +1,9 @@
+/* 
+  Localizable.string.strings
+  CardVerify
+
+  Created by Sam King on 12/29/20.
+  
+*/
+"Scan Card" = "Scan Card";
+"SubTitle" = "Point the camera at the card to add";
